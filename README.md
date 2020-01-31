@@ -60,6 +60,12 @@ recently changed their api
 
 ### StockPups (*alive*)
 
+Via StockPups Blog August 18, 2019
+
+"We've just updated the site with the data from the latest quarterly filings. Going forward, we plan to reduce the universe of companies that we update on a regular basis. Our website is free, and we need to be mindful of our time allocation."
+
+"All of the current historic data on StockPup.com will remain available. We will continue to regularly update a short list of companies that are of interest to us, e.g. as potential long-term value investment opportunities. If there are specific companies that you would like covered, let us know, and we will consider adding them. You can do so by commenting on this post, or on Twitter."
+
 
 ### Morningstar (*alive via selenium*)
 

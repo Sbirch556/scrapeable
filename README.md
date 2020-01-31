@@ -20,10 +20,21 @@ My opinion
 Financial Modeling Prep fetches their data directly from SEC.gov and is consistently updated as noted [here](https://github.com/antoinevulcain/Financial-Modeling-Prep-API/issues/6). Highly recommend you check them out and support them however you can, in my experience amazing API's to fundamental data like this don't stay free for long, just look at https://intrinio.com/, yahoo finance fundamentals, and google finance fundamentals...both of which appear to be making a return in late 2019
 
 
-## FINVIZ
+### FINVIZ
 
+Finviz does not provide any documentation for a web api.
 
+My opinion 
 
-## Yahoo Finance (misc functions that don't appear in popular packages) 
+Cool things can happen if you are willing to not look at their robots.txt ...
+
+### Yahoo Finance (misc functions that don't appear in popular packages) 
+
+Yahoo finance does not provide any documentation for a web api.
+
+My opinion
+
+Arguably the most used free web api to historical stock data in the programming community over the past 2 decades (2020)!!! 
+
 
 

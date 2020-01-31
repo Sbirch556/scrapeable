@@ -6,7 +6,7 @@ A free restful web api connected to SEC.gov that provides raw unstructured and s
 # Open Source Functions to Other Data Providers
 
 
-### Financial Modeling Prep
+### Financial Modeling Prep *alive*
 
 **Via FMP documentation**
 
@@ -20,9 +20,8 @@ We have real time stock price, we cover the fundamental data part of the stocks 
 
 Financial Modeling Prep fetches their data directly from SEC.gov and is consistently updated as noted [here](https://github.com/antoinevulcain/Financial-Modeling-Prep-API/issues/6). Highly recommend you check them out and support them however you can, in my experience amazing API's to fundamental data like this don't stay free for long, just look at https://intrinio.com/, yahoo finance fundamentals, and google finance fundamentals...both of which appear to be making a return in late 2019
 
-*still active*
 
-### FINVIZ
+### FINVIZ *alive*
 
 Finviz does not provide any documentation about their api.
 
@@ -30,9 +29,8 @@ Finviz does not provide any documentation about their api.
 
 Cool things can happen if you don't look at their robots.txt ....
 
-*still active*
 
-### Yahoo Finance (misc functions that don't appear in popular packages) 
+### Yahoo Finance (misc functions that don't appear in popular packages) *alive*
 
 Yahoo finance does not provide any documentation about their api.
 
@@ -40,9 +38,8 @@ Yahoo finance does not provide any documentation about their api.
 
 Arguably the most used free web api to historical stock data in the programming community over the past 2 decades (2020)!!! 
 
-*still active*
 
-### OTC Markets
+### OTC Markets *alive*
 
 
 **Via OTC Markets**
@@ -53,14 +50,17 @@ Free data via [here](https://backend.otcmarkets.com/) and FAQ for paid data via 
 
 Overall a great free resource for getting quotes and other information regarding OTC stocks....Who cares about OTC stocks anyways I'm not interested in buying your penny stock guru course.
 
-*still active*
 
-### NASDAQ
+### NASDAQ *alive*
 
 **My opinion**
 
 recently changed their api 
 
-*still active*
+
+### StockPups *alive*
+
+
+### Morningstar *alive via selenium*
 
 

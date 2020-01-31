@@ -5,6 +5,7 @@ A free restful web api connected to SEC.gov that provides raw unstructured and s
  
 # Open Source Functions to Other Data Providers
 
+
 ### Financial Modeling Prep
 
 **Via FMP documentation**
@@ -20,17 +21,20 @@ We have real time stock price, we cover the fundamental data part of the stocks 
 Financial Modeling Prep fetches their data directly from SEC.gov and is consistently updated as noted [here](https://github.com/antoinevulcain/Financial-Modeling-Prep-API/issues/6). Highly recommend you check them out and support them however you can, in my experience amazing API's to fundamental data like this don't stay free for long, just look at https://intrinio.com/, yahoo finance fundamentals, and google finance fundamentals...both of which appear to be making a return in late 2019
 
 
+
 ### FINVIZ
 
-Finviz does not provide any documentation for a web api.
+Finviz does not provide any documentation about their api.
 
 **My opinion** 
 
-Cool things can happen if you are willing to not look at their robots.txt ...
+Cool things can happen if you don't look at their robots.txt ....
+
+
 
 ### Yahoo Finance (misc functions that don't appear in popular packages) 
 
-Yahoo finance does not provide any documentation for a web api.
+Yahoo finance does not provide any documentation about their api.
 
 **My opinion**
 

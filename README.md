@@ -1,3 +1,3 @@
 # scrapeable.com
 
-web api's to the data everyone wants.    
+Web API's and a data terminal to query them    
